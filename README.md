@@ -4,6 +4,5 @@
 ----- | ----- 
 iOS7特性集合 |  <https://github.com/shu223/iOS7-Sampler> 
 iOS8特性集合 |  <https://github.com/shu223/iOS8-Sampler> 
------ | ----- 
 iOS9特性集合 |  <https://github.com/shu223/iOS-9-Sampler>
-iOS9适配 |  <httpshttps://github.com/ChenYilong/iOS9AdaptationTips>
+iOS9适配 |  <https://github.com/ChenYilong/iOS9AdaptationTips>
